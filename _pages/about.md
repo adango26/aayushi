@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-"👋🏼 Hello there, I'm Aayushi!"
+👋🏼 Hello there, I'm Aayushi!
 
-<span style="font-size: 90%;">Hi there! I'm a third-year Ph.D. student, advised by [Dr. Julie Kientz][julie], in the department of [Human Centered Design & Engineering][hcde] at the [University of Washington][uw]. My research focuses on using AI and machine learning to develop accessible learning technologies for children with speech and language difficulties. I'm also passionate about helping children build AI literacy competencies so they can understand and interact with AI in thoughtful, informed ways.</span>
+<span style="font-size: 90%;">I'm a third-year Ph.D. student, advised by [Dr. Julie Kientz][julie], in the department of [Human Centered Design & Engineering][hcde] at the [University of Washington][uw]. My research focuses on using AI and machine learning to develop accessible learning technologies for children with speech and language difficulties. I'm also passionate about helping children build AI literacy competencies so they can understand and interact with AI in thoughtful, informed ways.</span>
 
 <span style="font-size: 90%;">Previously, I worked as a middle school Computer Science teacher at [Ridgefield Academy][ridgefield]. I also served as a research assistant at Utah State University with [Dr. Kristen Searle][kristen], contributing to projects that integrated electronic textiles into computer science education.</span>
 
