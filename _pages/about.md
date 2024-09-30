@@ -47,7 +47,7 @@ Aayushi Dangol, [Michelle Newman][michelle], [Robert Wolfe][robert], [Jin Ha Lee
 
 <span style="font-size: 90%;">**[Opportunities and Challenges for AI-Based Support for Speech-Language Pathologists.](https://dl.acm.org/doi/pdf/10.1145/3663384.3663387){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 *Best Paper Honorable Mention, Human-Computer Interaction for Work (CHIWORK) 2024.* <br>
-Hyewon Suh][hyewon], Aayushi Dangol, [Hedda Meadan][hedda], [Carol Miller][carol], [Julie Kientz][julie] <br>
+[Hyewon Suh][hyewon], Aayushi Dangol, [Hedda Meadan][hedda], [Carol Miller][carol], [Julie Kientz][julie] <br>
 **Summary:** Study offers insights into how AI can be integrated to address Speech-Language Pathologists’ needs, increase their capacity, and improve job satisfaction.</span><br>
 
 
