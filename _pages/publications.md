@@ -76,23 +76,23 @@ Joseph Chipps, Aayushi Dangol, Brittany Terese Fasy, Stacey Hancock, Mengying Ji
 
 <h2 id="under-submission"><span style="font-size: 90%;">Under Submission in Peer-Reviewed Venues</span></h2>
 
-<span style="font-size: 90%;">**[Broadening the Scope of Support: Designing for AI-Supported Home Practice in Speech Therapy.]** <br>
+<span style="font-size: 90%;">**Broadening the Scope of Support: Designing for AI-Supported Home Practice in Speech Therapy.** <br>
 *Aayushi Dangol, Aaleyah Lewis, Hyewon Suh, Cecilia Hung, James Fogarty & Julie Kientz <br>
 **Summary:** Explores AI-based solutions to support Speech & Language Pathologists in providing equitable care to culturally and linguistically diverse children with disabilities.</span><br>
 
-<span style="font-size: 90%;">**[Exploring AI-Based Support in Speech-Language Pathology for Culturally and Linguistically Diverse Children.]** <br>
+<span style="font-size: 90%;">**Exploring AI-Based Support in Speech-Language Pathology for Culturally and Linguistically Diverse Children.** <br>
 Aaleyah Lewis, Aayushi Dangol, Hyewon Suh, Abbie Olszewski, James Fogarty & Julie Kientz <br>
 **Summary:** Introduces a culturally and linguistically diverse framework for AI-supported speech practice to help families with home practice activities.</span><br>
 
-<span style="font-size: 90%;">**[Designing with ARC Puzzles: Helping Children Grasp the Strengths and Limitations of Generative AI.]** <br>
+<span style="font-size: 90%;">**Designing with ARC Puzzles: Helping Children Grasp the Strengths and Limitations of Generative AI.** <br>
 Aayushi Dangol, Runhua Zhang, Robert Wolfe, Trushaa Ramanan, Jaewon Kim, Jason Yip & Julie Kientz <br>
 **Summary:** Introduces the interactive AI Puzzlers system designed to help children understand the capabilities and limitations of generative AI.</span><br>
 
-<span style="font-size: 90%;">**[Toward Nonviolent Design: Co-Designing a Human-Centered Framework for AI-Mediated Communication.]** <br>
+<span style="font-size: 90%;">**Toward Nonviolent Design: Co-Designing a Human-Centered Framework for AI-Mediated Communication.** <br>
 Robert Wolfe, Aayushi Dangol, Jaewon Kim, and Alexis Hiniker.<br>
 **Summary:** Introduces a human-centered framework for AI-mediated communication that builds on the principles of Nonviolent Communication (NVC).</span><br>
 
-<span style="font-size: 90%;">**[Reading AI and Reading the World: Using an Interactive AI System to Promote Children’s Understanding of AI Bias.]** <br>
+<span style="font-size: 90%;">**Reading AI and Reading the World: Using an Interactive AI System to Promote Children’s Understanding of AI Bias.** <br>
 Aayushi Dangol, Robert Wolfe, Akeiylah Dewitt, Ben Chickadel, Julie Kientz, and Sayamindu Dasgupta.<br>
 **Summary:** Introduces the interactive CLIP4KIDS system and studies how students understand AI biases in terms of "assumptions" and "stereotypes," drawing connections between historical injustices and present implicit biases in AI models.</span><br>
 
