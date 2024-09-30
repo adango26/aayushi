@@ -14,7 +14,7 @@ description              : &description "Aayushi Dangol's Personal Website"
 url                      : "https://adango26.github.io/aayushi/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aayushi"
-teaser                   : "teaser.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aayushi Dangol"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. student in HCDE at the University of Washington. <br> <br> Updated Sept 2, 2024."
   location         : "Seattle, WA, USA"
   employer         :
