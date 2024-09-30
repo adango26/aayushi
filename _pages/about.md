@@ -12,10 +12,8 @@ redirect_from:
 
 <span style="font-size: 90%;">I'm a third-year Ph.D. student, advised by [Dr. Julie Kientz][julie], in the department of [Human Centered Design & Engineering][hcde] at the [University of Washington][uw]. My research focuses on using AI and machine learning to develop accessible learning technologies for children with speech and language difficulties. I'm also passionate about helping children build AI literacy competencies so they can understand and interact with AI in thoughtful, informed ways.</span>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="{{ site.baseurl }}/images/photo.png" alt="Illustration of my research" style="width: 300px; border-radius: 10px;">
-  <img src="{{ site.baseurl }}/images/photo.png" alt="Illustration of my project" style="width: 300px; border-radius: 10px;">
-</div>
+![Illustration of my research]({{ site.baseurl }}/images/photo.png){: .align-right width="300px"}
+![Illustration of my project]({{ site.baseurl }}/images/photo.png){: .align-left width="300px"}
 
 <span style="font-size: 90%;">Previously, I worked as a middle school Computer Science teacher at [Ridgefield Academy][ridgefield]. I also served as a research assistant at Utah State University with [Dr. Kristen Searle][kristen], contributing to projects that integrated electronic textiles into computer science education.</span>
 
