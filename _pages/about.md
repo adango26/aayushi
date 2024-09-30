@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👋🏼 Hello there, I'm Aayushi!
+### <span style="font-size: 90%;"> 👋🏼 Hello there, I'm Aayushi!</span>
 
 <span style="font-size: 90%;">I'm a third-year Ph.D. student, advised by [Dr. Julie Kientz][julie], in the department of [Human Centered Design & Engineering][hcde] at the [University of Washington][uw]. My research focuses on using AI and machine learning to develop accessible learning technologies for children with speech and language difficulties. I'm also passionate about helping children build AI literacy competencies so they can understand and interact with AI in thoughtful, informed ways.</span>
 
-<span style="font-size: 90%;">Previously, I worked as a middle school Computer Science teacher at [Ridgefield Academy][ridgefield]. I also served as a research assistant at Utah State University with [Dr. Kristen Searle][kristen], contributing to projects that integrated electronic textiles into computer science education.</span>
+<span style="font-size: 90%;">Previously, I worked as a middle school Computer Science teacher at [Ridgefield Academy][ridgefield]. I also served as a research assistant at Utah State University with [Dr. Kristin Searle][kristen], contributing to projects that integrated electronic textiles into computer science education.</span>
 
 <span style="font-size: 90%;">I received my BA from [Swarthmore College][swarthmore], with a double major in Computer Science and Studio Arts. During my time at Swarthmore, I founded [Nepali Girls Code][lang], an initiative that provides culturally responsive computer science education to middle school girls in Nepal. I interned at [Autodesk][autodesk], and I am a [CERES scholar][ceres] with the Jacobs Foundation.</span>
 
@@ -25,9 +25,9 @@ redirect_from:
 
 <span style="font-size: 90%;">- **Sep 2024**: Presented a poster on interactive play for developing AI literacy at the CERES Fall Intensive.</span>
 
-<span style="font-size: 90%;">- **Aug 2024**: Congratulations to my REU students, Trushaa Ramanan and Arya, for presenting their first posters at the DUB REU Poster Showcase.</span>
+<span style="font-size: 90%;">- **Aug 2024**: Congratulations to my REU students, Trushaa and Arya, for presenting their first posters at the DUB REU Poster Showcase 🎉.</span>
 
-<span style="font-size: 90%;">- **Aug 2024**: Received Honorable Mention Best Paper Award for research on AI for Speech-Language Pathologists.</span>
+<span style="font-size: 90%;">- **Aug 2024**: Received Honorable Mention Best Paper Award for our research on AI based support for Speech-Language Pathologists.</span>
 
 ---
 
