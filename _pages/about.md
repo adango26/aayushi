@@ -1,49 +1,71 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! I'm a third-year Ph.D. student, advised by [Dr. Julie Kientz][julie], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on using AI and machine learning to develop accessible learning technologies for children with speech and language difficulties. I'm also passionate about helping children build AI literacy competencies, so they can understand and interact with AI in thoughtful, informed ways.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Previously, I worked as a middle school Computer Science teacher at [Ridgefield Academy] [ridgefield]. I also served as a research assistant at Utah State University with [Dr. Kristen Searle] [kristen], contributing to projects that integrated electronic textiles into computer science education. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I recieved my BA from [Swarthmore College] [swarthmore], with a double major in Computer Science and Studio Arts. During my time at Swarthmore, I founded [Nepali Girls Code] [lang], an initiative that provides culturally responsive computer science education to middle school girls in Nepal. I interned at Autodesk [autodesk], and I am a CERES scholar [ceres] with the Jacobs Foundation [jacobs].
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I’m always open to collaborations and conversations. Please feel free to reach out!
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+-----
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Recent News
 
-**Markdown generator**
+Sep 2024, Excited to be sharing new research at AIES 2024. We’ve made preprints available for our accepted work on representation bias of adolescents in AI models. Please get in touch if you’d like to connect in Santa Clara this October!
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Sep 2024, Presented poster on interative play for developing AI literacy at the CERES Fall Intensive.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Aug 2024, Congratulations to my REU students, Trushaa Ramanan and Arya, for presenting their first posters at the DUB REU Poster Showcase.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Aug 2024, Received Honorable Mention Best Paper Award for research on AI for Speech-Language Pathologists. 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-----
+
+### Selected Publications
+
+<small> see my [Google Scholar] (https://scholar.google.com/citations?user=BRT9BREAAAAJ&hl=en) for the full list of publications
+
+Mediating Culture: Cultivating Socio-cultural Understanding of AI in Children through Participatory Design<br>
+Aayushi Dangol, [Michelle Newman][michelle], [Robert Wolfe][robert], [Jin Ha Lee][jinha], [Julie Kientz][julie], [Jason Yip][jason], [Caroline Pitt][caroline]<br>
+2024 / DIS <br>
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3643834.3661515)
+
+Representation Bias of Adolescents in AI: A Bilingual, Bicultural Study<br>
+[Robert Wolfe][robert], Aayushi Dangol, [Bill Howe][bill] & [Alexis Hiniker][alexis] <br>
+2024 / AIES <br>
+[PDF](https://arxiv.org/pdf/2408.01961)
+
+Opportunities and Challenges for AI-Based Support for Speech-Language Pathologists <br>
+[Hyewon Suh][hyewon], Aayushi Dangol, [Hedda Meadan][hedda], [Carol Miller] [carol], [Julie Kientz][julie]<br>
+2024 / CHIWORK <br>
+
+[hcde]: https://hcde.washington.edu
+[uw]: https://washington.edu
+[swarthmore]: https://www.swarthmore.edu/
+[lang]: https://www.swarthmore.edu/lang-center/lang-opportunity-scholarship-program
+[ceres]: https://ceres.uci.edu/
+[jacobs]: https://jacobsfoundation.org/
+[ridgefield]: https://www.ridgefieldacademy.org/
+[autodesk]: https://www.autodesk.com/?cjdata=MXxOfDB8WXww&mktvar002=afc_us_deeplink&AID=10282382&PID=8206971&SID=jkp_CjwKCAjw0t63BhAUEiwA5xP54QvH7l9aRQj31upWsENBDsOwidSxhsVB8pb6nl9zN-UXAJ0Zs5I-5hoCZV8QAvD_BwE&cjevent=394e60c97e0811ef8386acf70a1cb825&affname=8206971_10282382
+
+[julie]: https://faculty.washington.edu/jkientz/
+[kristen]: https://cehs.usu.edu/itls/people/kristin-searle
+[michelle]: https://michelenewman.github.io//
+[robert]: https://wolferobert3.github.io/
+[jinha]: https://ischool.uw.edu/people/faculty/profile/jinhalee
+[jason]: https://bigyipper.com/
+[caroline]: https://faculty.washington.edu/pittc/
+[bill]: https://ischool.uw.edu/people/faculty/profile/billhowe
+[alexis]: https://www.alexishiniker.com/
+[carol]: https://hhd.psu.edu/contact/carol-miller
+[hedda]: https://spcd.charlotte.edu/people/hedda-meadan-kaplansky/
+[hyewon]: https://scholar.google.com/citations?user=DpHT6UEAAAAJ&hl=en
